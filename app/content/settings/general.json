@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "The AI Odyssey",
+  "titleTemplate": "| by Rajat",
+  "welcomeText": "# The AI Odyssey\n\nWhat does it mean to be distinctly human? What can you do that AI cannot? More importantly, how can we prepare for this new future?\n\nSubscribe to explore these questions with me:",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "The AI Odyssey — What does it mean to be distinctly human?",
   "seoMetaImage": ""
 }
