@@ -35,11 +35,11 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img
+       <!-- <img
           alt="Hero"
           class="rounded shadow-xl"
         src="https://imgur.com/a/P5bfg3G" 
-        />
+        /> -->
       </div>
     </div>
   </section>
