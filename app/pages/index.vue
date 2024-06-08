@@ -38,7 +38,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+        src="https://unsplash.com/photos/people-walking-on-sidewalk-during-daytime-xJY-7gtC38o" 
         />
       </div>
     </div>
