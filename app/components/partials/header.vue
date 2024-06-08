@@ -1,9 +1,9 @@
 <template>
   <header class="flex items-center py-4 md:py-8">
     <div class="header__logo">
-  <nuxt-link to="/">
-  <img src="https://unsplash.com/photos/people-walking-on-sidewalk-during-daytime-xJY-7gtC38o" alt="Hero Image" />
-  </nuxt-link>
+      <nuxt-link to="/">
+        <img :src="logo" alt="Logo" />
+      </nuxt-link>
     </div>
 
     <nav class="nav ml-auto">
