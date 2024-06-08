@@ -38,7 +38,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-        src="https://unsplash.com/photos/people-walking-on-sidewalk-during-daytime-xJY-7gtC38o" 
+        src="https://imgur.com/a/P5bfg3G" 
         />
       </div>
     </div>
